@@ -3,7 +3,7 @@ Predicting prime numbers with machine learning algorithms
 
 ## Projects
 ### Predicting Primes
-Given primes p_n, p_n+1, and p_n+2, predict the value of prime p_n+3.
+Given primes p<sub>n</sub>, p<sub>n+1</sub>, and p<sub>n+2</sub>, predict the value of prime p<sub>n+3</sub>.
 
 ### Factoring Primes
 Given a product of two primes, predict the values of the factors.
