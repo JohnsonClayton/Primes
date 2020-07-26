@@ -4,13 +4,20 @@ Predicting prime numbers with machine learning algorithms
 ## Algorithms
 ### sklearn
  - RandomForestRegressor
+ - KernelRidge
+ - DecisionTreeRegressor (Optimized version of CART)
+ 
+## Investigations
+### Kernel Ridge Regression
+ - How does it work?
+ - Why does it take up so much memory?
 
 ## Projects
 ### Predicting Primes
 Given primes p<sub>n</sub>, p<sub>n+1</sub>, and p<sub>n+2</sub>, predict the value of prime p<sub>n+3</sub>.
  - [x] Random Forest   
      This model performs extremely well (R<sup>2</sup> > 0.9999) at predicting the next prime number in the series
- - [ ] Decision Tree (Optimized CART)
+ - [ ] Decision Tree
  - [ ] Kernel Ridge Regression
  - [ ] Deep Learning
  
@@ -22,3 +29,4 @@ Given a product of two primes, predict the values of the factors.
 
 ## Resources
  - [ML for Factoring Primes](https://www.datasciencecentral.com/profiles/blogs/factoring-massive-numbers-a-new-machine-learning-approach)
+ - [Scikit-Learn Supervised Learning](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
