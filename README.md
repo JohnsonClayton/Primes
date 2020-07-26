@@ -10,6 +10,10 @@ Predicting prime numbers with machine learning algorithms
 Given primes p<sub>n</sub>, p<sub>n+1</sub>, and p<sub>n+2</sub>, predict the value of prime p<sub>n+3</sub>.
  - [x] Random Forest   
      This model performs extremely well (R<sup>2</sup> > 0.9999) at predicting the next prime number in the series
+ - [ ] Decision Tree (Optimized CART)
+ - [ ] Kernel Ridge Regression
+ - [ ] Deep Learning
+ 
 
 ### Factoring Primes
 Given a product of two primes, predict the values of the factors.
