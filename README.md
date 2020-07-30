@@ -1,5 +1,5 @@
-# ML-Primes
-Predicting prime numbers with machine learning algorithms
+# Primes Research
+Predicting prime numbers with machine learning algorithms and additional work
 
 ## Algorithms
 ### sklearn
