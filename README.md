@@ -46,9 +46,15 @@ iii) Can we combine these two experiments (i.e. predict low factor, then use tha
    1) R<sup>2</sup> ~0.85
    2) R<sup>2</sup> < 0.0
    3) R<sup>2</sup> ~0.80
+   
+   
+### Additional Questions
+What happens if we represent the prime numbers in a different base (such as binary or octal)?  
+
 ## Resources
  - [ML for Factoring Primes](https://www.datasciencecentral.com/profiles/blogs/factoring-massive-numbers-a-new-machine-learning-approach)
  - [Scikit-Learn Supervised Learning](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
  - [R<sup>2</sup> score](https://scikit-learn.org/stable/modules/model_evaluation.html#r2-score)
  - [Primes](https://en.wikipedia.org/wiki/Prime_number)
  - [Prime Number Theorem](https://en.wikipedia.org/wiki/Prime_number_theorem)
+ - [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
