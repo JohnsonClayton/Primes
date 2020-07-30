@@ -50,3 +50,5 @@ iii) Can we combine these two experiments (i.e. predict low factor, then use tha
  - [ML for Factoring Primes](https://www.datasciencecentral.com/profiles/blogs/factoring-massive-numbers-a-new-machine-learning-approach)
  - [Scikit-Learn Supervised Learning](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
  - [R<sup>2</sup> score](https://scikit-learn.org/stable/modules/model_evaluation.html#r2-score)
+ - [Primes](https://en.wikipedia.org/wiki/Prime_number)
+ - [Prime Number Theorem](https://en.wikipedia.org/wiki/Prime_number_theorem)
